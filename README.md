@@ -29,5 +29,3 @@ Developed an Interactive HR Analytics Dashboard in Power BI to analyze workforce
 4. Higher absence counts correlate with lower satisfaction scores
 5. Senior roles have the highest headcount
 
-<img width="1142" height="675" alt="Screenshot 2026-08-18 222738" src="https://github.com/user-attachments/assets/6c685c98-96fb-4210-b648-15c1259797ce" />
-   
